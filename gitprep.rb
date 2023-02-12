@@ -6,7 +6,7 @@ class Gitprep < Formula
   license "MIT"
 
   def install
-    bin.install "gitstart"
+    bin.install "gitprep"
     bin.install Dir["scripts"]
   end
 end

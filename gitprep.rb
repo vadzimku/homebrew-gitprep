@@ -1,8 +1,8 @@
 class Gitprep < Formula
   desc "Gitprep set up your git repository including adding a hook that extracts a ticket number from a branch and adds it to your commits"
   homepage "https://github.com/vadiku/gitprep"
-  url "https://github.com/vadiku/gitprep/archive/refs/tags/v0.0.2.tar.gz"
-  sha256 "a6af6a4fad7efd7b00f1d4374014a579f31d51f30259fb17c0d0a61df441937e"
+  url "https://github.com/vadiku/gitprep/archive/refs/tags/v0.0.3.tar.gz"
+  sha256 "e1777d1670d920aace32e5290098f77c709f9bb40850e333252482037c480a9e"
   license "MIT"
 
   def install
